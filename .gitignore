@@ -1,0 +1,14 @@
+# Ignorar arquivos do backend (Spring Boot)
+backend/target/
+backend/.mvn/
+backend/.idea/
+backend/*.iml
+
+# Ignorar arquivos do frontend (Angular)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Outros
+*.log
+.DS_Store
